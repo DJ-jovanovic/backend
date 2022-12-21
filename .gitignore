@@ -1,0 +1,6 @@
+infra/aws/build/*
+build/*
+pgdata/*
+.env
+__debug_bin
+myautohaus_backend
